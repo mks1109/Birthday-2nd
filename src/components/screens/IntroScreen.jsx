@@ -18,7 +18,7 @@ export default function IntroScreen({ onNext , onMusicStart}) {
                         style={{
                             filter: "drop-shadow(0 0 20px rgba(255,105,180,0.4))",
                         }}>
-                        19 years ago today, a beautiful soul graced the world 💕
+                        20 years ago today, a beautiful soul graced the world 💕
                     </h1>
                     <p className="mt-4 text-xl text-pink-200">Yes, it’s YOU Babu😘! A little something just for you...</p>
                 </div>
